@@ -1,0 +1,29 @@
+[
+    {
+        "run": 0,
+        "dateTime": "12/13/2021 17:05",
+        "equity": 600000.0,
+        "cash": 400000.0,
+        "accountOne": 1000000.0,
+        "accountTwo": 0.0,
+        "netWorth": 1000000.0
+    },
+    {
+        "run": 1,
+        "dateTime": "12/14/2021 22:32",
+        "equity": 597310.556,
+        "cash": 398207.037,
+        "accountOne": 995517.593,
+        "accountTwo": 0.0,
+        "netWorth": 995517.593
+    },
+    {
+        "run": 2,
+        "dateTime": "12/15/2021 17:37",
+        "equity": 597310.556,
+        "cash": 398207.037,
+        "accountOne": 995517.593,
+        "accountTwo": 9765.11,
+        "netWorth": 1005282.703
+    }
+]
